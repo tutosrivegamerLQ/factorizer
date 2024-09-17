@@ -1,0 +1,10 @@
+1. Simplemente ingrese la expresión que desee factorizar/simplificar.
+2. De click en el botón "factorizar" para llevar a cabo el proceso.
+
+NOTA: Tenga cuidado con los paréntesis y signos. A continuación símbolos correctos/admitidos:
+
+1. xⁿ => x elevado a la (n)                   => (x**n)
+2. √x => Raíz Cuadrada de (x)            => sqrt(x)
+3. 2x => (2) producto/factor de x       => 2*x
+
+By ©SRM 2024
