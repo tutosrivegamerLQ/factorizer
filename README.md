@@ -10,3 +10,4 @@ Es un "*programa*" simple de usar, con una interfaz gráfica muy simple, pero qu
 
 ## Releases
 
+[Releases](https://github.com/tutosrivegamerLQ/factorizer/releases)
