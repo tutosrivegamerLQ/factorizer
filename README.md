@@ -1,4 +1,4 @@
-# Factorizer [code](code)
+# Factorizer V0.1.0 [code](code)
 
 [![Download factorizer](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/factorizer/files/latest/download) [![Download factorizer](https://img.shields.io/sourceforge/dm/factorizer.svg)](https://sourceforge.net/projects/factorizer/files/latest/download)
 ---
